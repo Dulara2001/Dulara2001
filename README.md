@@ -1,4 +1,4 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDhuTnJmU25uX25TVG5nSmtkTU9HRm9PbnlMZ3xBQ3Jtc0tuWERaSmlYaGRTMGdZbmk3cnNFdWNpVXlkRzl3OV85WncxTzRWd1c1VUR1TU5ETmluS1Bqb0hNSklxNUp1WkVVMnlaMEpZZ1JReGZNdUlTVDVHTF9pSEthZ1NkazZEbzh5TlBJSnA5R2h6TVhsbWtIaw&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)]
+[![MasterHead](https://www.linkedin.com/pulse/empowering-businesses-data-science-analytics-deepesh-rastogi-lion-/)]
 <h1 align="center">Hi 👋, I'm Dulara Rathnayake</h1>
 <h3 align="center">Data Science Undergraduate at SLIIT</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
