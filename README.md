@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **dulararathnayake519@gmail.com**
 
