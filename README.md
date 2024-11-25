@@ -6,17 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulara2001&label=Profile%20views&color=0e75b6&style=flat" alt="dulara2001" /> </p>
 
-- 🌱 I’m currently learning **Advanced Machine Learning algorithms**
+- 🌱 I’m currently learning: **Advanced Machine Learning algorithms**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Artificial Intelligence projects**
+- 👯 I’m looking to collaborate on: **AI/ML and Data Science projects**
 
-- 👨‍💻 All of my projects are available at [https://dulara-rathnayake-portfolio-46.vercel.app/](https://dulara-rathnayake-portfolio-46.vercel.app/)
+- 👨‍💻 All of my projects are available at: [https://dulara-rathnayake-portfolio-46.vercel.app/](https://dulara-rathnayake-portfolio-46.vercel.app/)
 
-- 💬 Ask me about **AI, ML, Data Science, and real-time motion detection systems.**
+- 💬 Ask me about **AI/ML and Data Science**
 
 - 📫 How to reach me **dulararathnayake519@gmail.com**
 
-- ⚡ Fun fact **I can teach computers to "see" using AI!**
+- ⚡ Fun fact: **I can teach computers to "see" using AI!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
