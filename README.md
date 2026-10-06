@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on: **AI/ML and Computer Vision projects**
 
-- 👨‍💻 All of my projects are available at: [https://dulara-rathnayake-portfolio-46.vercel.app/](https://dulara-rathnayake-portfolio-46.vercel.app/)
-
 - 💬 Ask me about **AI/ML and Computer Vision**
 
 - 📫 How to reach me **dulararathnayake519@gmail.com**
